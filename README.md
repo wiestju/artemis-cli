@@ -24,7 +24,7 @@ Works with any self-hosted Artemis instance — KIT, TUM, TU Darmstadt, and more
 ## Installation
 
 ```bash
-pip install artemis-cli
+pip install artemis-lms-cli
 ```
 
 Or from source:
